@@ -1,4 +1,6 @@
 Cold and dry.
+I split the lines 
+I want to use git add -p mars.txt
 Mars has two moons .
 year and day length
 
