@@ -4,3 +4,4 @@ I want to use git add -p mars.txt
 Mars has two moons .
 year and day length
 
+mean temp is -63 C
